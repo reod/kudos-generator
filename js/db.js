@@ -1,15 +1,13 @@
  const db = [
   [
     'is',
-    'hardly tries to be',
+    'tries to be',
     'acts as',
     'remains to be',
     'continues to be',
     'seems to be',
     'does his very best to be',
-    'doesn\'t stop his great efforts to be',
-    'will be always remembered as',
-    'will always remain in my mind as'
+    'doesn\'t stop his great efforts to be'
   ],
   
   [
@@ -17,7 +15,6 @@
     'a very helpful person',
     'an amazing team mate',
     'my soulmate',
-    'an inspiration for my life',
     'a source of motivation'
   ],
   
@@ -42,7 +39,9 @@
     'such attitude',
     'this unique approach',
     'being that kind of person',
-    'his great work'
+    'his great work',
+    'his everyday behavior',
+    'this type of being'
   ],
   
   [
@@ -51,22 +50,24 @@
     'supports',
     'assists',
     'lends',
-    'succours',
-    'provides'
+    'succours'
   ],
   
   [
     'creating',
     'establishing',
     'generating',
-    'producing'
+    'producing',
+    'instilling',
+    'inoculating'
   ],
   
   [
     'positive atmosphere',
     'company integrity',
     'atmosphere of colaboration',
-    'positive competition'
+    'positive competition',
+    'high morale'
   ],
   
   [
@@ -74,7 +75,7 @@
     'in our company.',
     'in our site.',
     'in our work environment.',
-    'in our workplace.'
+    'in our workplace.',
   ],
   
   [
@@ -89,8 +90,9 @@
     'Thank you so much!',
     'I will never forget you!',
     'I can not express my gratitude!',
-    'Keep on doing your great job',
-    'You deserve a coffee in Starbucks!'
+    'Keep on doing your great job.',
+    'You deserve a coffee in Starbucks!',
+    'I wish I was that awsome as you are!'
   ]
-
+  
 ];
