@@ -1,0 +1,49 @@
+body {
+  margin: 20px;
+}
+
+
+@media screen and (min-width: 640px) {
+  body {
+    width: 60%;
+    margin: 0 auto;
+  }
+}
+
+#generate {
+  padding: 10px;
+  font-size: 20px;
+  float: right;
+}
+
+#name {
+  border: 0;
+  font-family: 'serif';
+  display: inline;
+  background: none;
+  border-bottom: 1px solid #000;
+  width: auto;
+}
+
+#name,
+#board {
+  font-style: italic;
+  font-size: 20px;
+}
+
+#board {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 30px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+#board:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
